@@ -3,8 +3,11 @@ https://www.youtube.com/watch?v=Ke90Tje7VS0&pbjreload=10
 TABLE OF CONTENT
 
 00:00 Introduction
+<br>
 01:14 What is React
+<br>
 05:48 Setting Up the Development Environment 
+<br>
 09:27 Your First React App
 16:03 Hello World
 22:26 Components
